@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-  <h3 align="center">Hack-A-Sol-2021</h3>
+  <h3 align="center">InnovateNSUT-2021</h3>
   <p align="center">
   </p>
 </p>
@@ -53,7 +53,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Intro about the project
+The event of the creation of the vaccine gave hope to everyone across the world. But now in a country with 1.2 Billion people, vaccinating the population becomes a gargantuan task to handle this we have created a complete solution right from people looking for the nearest vaccine centers to handling the crowd at the vaccination centers.
+
+The system created includes a wide variety of advanced features such as 
+1. Live Geo-Location-based Tracking: To help find the nearest vaccination center for the person. To know the distance and time it takes to reach the location.
+2. Inbuilt video calling functionality: To facilitate faster communication between the authorities and the people we have included video calling to ensure faster resolution of queries.
+3.  Covid-19 detection using X-ray: Leveraging computer vision and deep learning we have created a system to help detect covid-19.
+4. Chatbot- Used for helping people having any issues or queries regarding the vaccine.
+5. CCTV Surveillance application: Using state-of-the-art object detection and facial-recognition deep learning systems we have created an application to detect social distancing violations and also activity recognition in case of any event such as crowding to maybe even violence occurs we notify the authorities using push notifications and email. The system is connected to the backend of the application and the information is also displayed on the vaccination centers admin page.
+6. qr code based entry: Qr code given to each user will help in monitoring the situation and keep a check on the people entering the vaccination center
 
 ### Built With
 
