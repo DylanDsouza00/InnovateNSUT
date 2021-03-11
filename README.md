@@ -50,9 +50,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 The event of the creation of the vaccine gave hope to everyone across the world. But now in a country with 1.2 Billion people, vaccinating the population becomes a gargantuan task to handle this we have created a complete solution right from people looking for the nearest vaccine centers to handling the crowd at the vaccination centers.
 
 The system created includes a wide variety of advanced features such as 
@@ -82,7 +79,7 @@ Follow these steps to get this project up and running on your local setup
 Clone the repo using the following command
 
   ```sh
-  git clone https://github.com/sujitnoronha/hack_a_sol_2021.git
+  git clone https://github.com/DylanDsouza00/InnovateNSUT.git
   ```
 
 ### Installation
