@@ -126,7 +126,7 @@ Franky Pinto-[https://www.linkedin.com/in/franky-pinto-781110188/]
 </br>
 Dylan Dsouza-[https://www.linkedin.com/in/dylandsouza00/]
 
-Project Link: [https://github.com/sujitnoronha/hack_a_sol_2021](https://github.com/sujitnoronha/hack_a_sol_2021)
+Project Link: [https://github.com/sujitnoronha/hack_a_sol_2021](https://github.com/DylanDsouza00/InnovateNSUT.git)
 
 
 
