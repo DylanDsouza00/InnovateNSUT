@@ -67,6 +67,10 @@ The Tech Stack used to make the project is
 * [Django](https://www.djangoproject.com/)
 * [VueJS](https://vuejs.org/)
 * [Google MapsAPI](https://developers.google.com/maps/documentation/javascript/overview)
+* [TensorfFlow](https://www.tensorflow.org/)
+* [OpenVINO](https://docs.openvinotoolkit.org/latest/index.html)
+* [Keras](https://keras.io/)
+* [OpenCV](https://opencv.org/)
 
 
 
